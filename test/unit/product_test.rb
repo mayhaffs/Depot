@@ -1,4 +1,5 @@
 require 'test_helper'
+  fixtures :products
 
 class ProductTest < ActiveSupport::TestCase
 
